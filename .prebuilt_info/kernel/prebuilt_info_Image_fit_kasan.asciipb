@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5340105"
+    build_id: "5412690"
     target: "kernel_kasan"
     source_file: "Image.fit"
   }
   dest_file: "Image.fit.kasan"
-  version: "Linux version 3.18.0-gbb7cae67567 (android-build@wprn11.hot.corp.google.com) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Feb 27 08:35:18 UTC 2019"
+  version: "Linux version 3.18.0-gdb545c65d56 (android-build@wprc5.hot.corp.google.com) (gcc version 4.9.x-google 20140827 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Mar 27 21:09:09 UTC 2019"
   version_group: "kernel"
   git_project: "device/google/dragon-kernel"
 }
